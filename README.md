@@ -2,6 +2,8 @@
 
 This prayer list program is based on the real life inspiration of the prayer list that has been started by Franklin Steele of [Wisdom And Understandning](https://www.youtube.com/@psalm146V5) channel on YouTube. 
 
+Currently I am debating whether to have this stay as a regular program or to advance this into an actual app that you can download on either a computer or mobile phone.
+
 ## Beginning Scriptures
 
 These are the beginning scriptures that will be the beginning layer before praying for the names of the people. 
@@ -15,3 +17,5 @@ For example, if it was March 20th, 2024, then we would be praying for the names 
 ## Ending Scriptures
 
 These are the ending scriptures that will be the ending layer after praying for the names of the people. 
+
+For any of the beginning or ending scriptures, if the scripture has been memroized in the head, it will be labeled as 'memorized' and therefore the scripture will end up being left out of the list.

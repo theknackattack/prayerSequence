@@ -1,4 +1,4 @@
-# The '**prayerList**' README
+# The **prayerList** README
 
 This prayer list program is based on the real life inspiration of the prayer list that has been started by Franklin Steele of [Wisdom And Understandning](https://www.youtube.com/@psalm146V5) channel on YouTube. 
 

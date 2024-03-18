@@ -1,0 +1,7 @@
+/Object
+*.o
+main
+
+/public
+/resources
+/.vscode
